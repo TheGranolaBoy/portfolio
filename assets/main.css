@@ -131,7 +131,7 @@ PAGE: PORTFOLIO
 }
 
 
-
+logo
 /**********************************
 PAGE: ABOUT
 ***********************************/
@@ -190,8 +190,7 @@ body {
 }
 
 /* green header */
-header {#general
-￼
+header {
   background: #6ab47b;
   border-color: #599a68;
 }
